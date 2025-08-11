@@ -1,7 +1,7 @@
 ### Oiie, bem-vindo(a) ao meu git-hub 👋
 
 
-- 🌠Universitária da UFRN, cursando Engenharia da computação
+- 🌠Universitária da UFRN, cursando Engenharia da Computação
 - 🌱 Estudando Python, C e C++
 - 😊 Monitora com orgulho
 - 🫒 Fun fact: Quando eu faço um assalto à geladeira, as vítimas (geralmente) são as azeitonas
